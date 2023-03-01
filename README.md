@@ -1,4 +1,4 @@
-# unitscan
+# unitscan rares - Cataclysm only edition
 ![unitscan-preview2](https://user-images.githubusercontent.com/74269253/220818194-19679f64-4ee7-4aa4-8edc-a5c8f2f857f1.gif)
 
 ## About
