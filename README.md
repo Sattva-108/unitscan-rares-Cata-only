@@ -3,7 +3,8 @@
 
 ## About
 This addOn automatically scans for any targetable units of your choice by name and alerts you upon finding one.
-It also has full Cataclysm Expansion (80+) rare mob database and scans them.
+
+It also has full Cataclysm Expansion (80+) rare mob database and scans forthem.
 
 There are 3 commands:
 
