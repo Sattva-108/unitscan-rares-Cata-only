@@ -13,7 +13,7 @@ There are 3 commands:
 
 ***To move addon window simply :*** Ctrl-click and drag.
 ## Install
-- **[Download]()** latest version in releases named "unitscan-rares.rar"
+- **[Download](https://github.com/Sattva-108/unitscan-rares-Cata-only/releases/download/v1.0.0/unitscan-rares.rar)** latest version in releases named "unitscan-rares.rar"
 - Extract rar file
 - Move sub folder named "unitscan" to Interface/AddOns
 - Enjoy!
