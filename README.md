@@ -6,7 +6,7 @@ This addOn automatically scans for any targetable units of your choice by name a
 
 It also has full Cataclysm Expansion (80+) rare mob database and scans forthem.
 
-There are 3 commands:
+**There are 3 commands:**
 
 - **/unitscan** lists all available commands. 
 - **/unitscan name** - adds/removes name to/from the scan targets
