@@ -45,7 +45,7 @@ local found = {}
 rare_spawns = {
 	-- ["Tablegrapes"] = "A H",
 	-- ["Azurous"] = "Winterspring",
-	["General Colbatann"] = "Winterspring",
+	--[[["General Colbatann"] = "Winterspring",
 	["Kashock the Reaver"] = "Winterspring",
 	["Lady Hederine"] = "Winterspring",
 	["Alshirr Banebreath"] = "Felwood",
@@ -485,7 +485,7 @@ rare_spawns = {
 	["Scorpitar"] = "Tanaris",
 	["Aquementas the Unchained"] = "Tanaris",
 	["Hellgazer"] = "Tanaris",
-	["Emberwing"] = "Tanaris",
+	["Emberwing"] = "Tanaris",]]
 
 
 	-- Cataclysm
